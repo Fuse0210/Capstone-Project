@@ -1,6 +1,3 @@
-# IBM-DS-Final-Project
-
-This is the final project of IBM Data Science courses. 
 In today’s job market, college degree is essential for many high-paying jobs . 
 However, there are many high school students in the United States who have been struggling to keep their grades high enough to enter colleges. 
 
